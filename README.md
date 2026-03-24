@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Rizwan+Yousaf;Platform+Architect;Infrastructure+Expert;Building+Scalable+Platforms" alt="Typing SVG" />
+# 👋 Hi, I'm Rizwan Yousaf
+### Platform Architect · Infrastructure Expert · Building Scalable Platforms
 </div>
 
 ---
