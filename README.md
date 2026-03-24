@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Rizwan Yousaf
+# 👋 Rizwan Yousaf
 
-### Platform Architect · Infrastructure Expert · DevSecOps
+### [Platform Architect | DevSecOps | Multi-Cloud | Digital Transformation]
 
 </div>
 
