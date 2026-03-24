@@ -1,6 +1,6 @@
 <div align="center">
 # 👋 Hi, I'm Rizwan Yousaf
-### Platform Architect · Infrastructure Expert · Building Scalable Platforms
+### Platform Architect · Infrastructure Expert · DevSecOps
 </div>
 
 ---
